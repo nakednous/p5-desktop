@@ -1,0 +1,20 @@
+{
+  "eye": {
+    "orientation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "magnitude": 0.5773502588272095,
+    "position": [
+      0,
+      0,
+      140
+    ]
+  },
+  "paths": [],
+  "ortho": false,
+  "radius": 70,
+  "visualHints": 4
+}
